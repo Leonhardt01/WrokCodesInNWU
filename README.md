@@ -1,2 +1,2 @@
 # WrokCodesInNWU
-There ars some codes during my learing in the university.
+There ars some codes during my learning in the university.
